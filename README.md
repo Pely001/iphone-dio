@@ -15,7 +15,7 @@ A classe `iPhone` é o equipamento em si, nele são implementadas as interfaces 
 
 ### `ReprodutorMusica`
 
-A interface `ReprodutorMusical` define os métodos necessários para controlar a reprodução de música, como `tocar()`, `pausar()` e `selecionarMusica()`. As classes que implementam essa interface são capazes de reproduzir músicas.
+A interface `ReprodutorMusica` define os métodos necessários para controlar a reprodução de música, como `tocar()`, `pausar()` e `selecionarMusica()`. As classes que implementam essa interface são capazes de reproduzir músicas.
 
 ### `AparelhoTelefonico`
 
