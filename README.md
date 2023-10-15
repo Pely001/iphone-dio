@@ -13,7 +13,7 @@ Repositório referente ao desafio de código proposto pela plataforma DIO, com o
 ### `iPhone`
 A classe `iPhone` é o equipamento em si, nele são implementadas as interfaces `ReprodutorMusica`, `AparelhoTelefonico` e `Navegador Internet`
 
-### `ReprodutorMusical`
+### `ReprodutorMusica`
 
 A interface `ReprodutorMusical` define os métodos necessários para controlar a reprodução de música, como `tocar()`, `pausar()` e `selecionarMusica()`. As classes que implementam essa interface são capazes de reproduzir músicas.
 
